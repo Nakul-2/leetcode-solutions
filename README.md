@@ -15,4 +15,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nakul-2/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
