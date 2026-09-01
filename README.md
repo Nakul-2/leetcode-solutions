@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nakul-2/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -48,4 +50,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nakul-2/leetcode-solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
