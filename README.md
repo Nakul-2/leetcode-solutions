@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 <!---LeetCode Topics End-->
