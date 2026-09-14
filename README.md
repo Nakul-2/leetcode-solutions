@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Nakul-2/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
+| [2129-capitalize-the-title](https://github.com/Nakul-2/leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
