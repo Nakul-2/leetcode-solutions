@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nakul-2/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -115,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
