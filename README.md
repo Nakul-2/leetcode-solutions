@@ -25,12 +25,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -130,5 +132,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nakul-2/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
