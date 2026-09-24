@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nakul-2/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Nakul-2/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nakul-2/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
