@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nakul-2/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0709-to-lower-case](https://github.com/Nakul-2/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2129-capitalize-the-title](https://github.com/Nakul-2/leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nakul-2/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Linked List
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -145,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nakul-2/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Nakul-2/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -179,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nakul-2/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Nakul-2/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
