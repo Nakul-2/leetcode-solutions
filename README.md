@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Nakul-2/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakul-2/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nakul-2/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
