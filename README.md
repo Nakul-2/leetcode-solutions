@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/0796-rotate-string/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Nakul-2/leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Nakul-2/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Nakul-2/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nakul-2/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
