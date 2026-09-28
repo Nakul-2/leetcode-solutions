@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Nakul-2/leetcode-solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Nakul-2/leetcode-solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nakul-2/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
