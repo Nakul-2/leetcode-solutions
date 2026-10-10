@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakul-2/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nakul-2/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nakul-2/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Nakul-2/leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
