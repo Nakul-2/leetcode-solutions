@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Nakul-2/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/Nakul-2/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
