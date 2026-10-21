@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3271-hash-divided-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
