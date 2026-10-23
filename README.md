@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nakul-2/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nakul-2/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
