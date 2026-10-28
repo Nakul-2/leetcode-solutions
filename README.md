@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nakul-2/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nakul-2/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Nakul-2/leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nakul-2/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nakul-2/leetcode-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
