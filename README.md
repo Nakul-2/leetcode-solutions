@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Nakul-2/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Nakul-2/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Nakul-2/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0044-wildcard-matching](https://github.com/Nakul-2/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Nakul-2/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nakul-2/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nakul-2/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nakul-2/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0044-wildcard-matching](https://github.com/Nakul-2/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nakul-2/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nakul-2/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nakul-2/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/Nakul-2/leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nakul-2/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
