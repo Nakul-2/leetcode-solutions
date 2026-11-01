@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Nakul-2/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakul-2/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nakul-2/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0409-longest-palindrome](https://github.com/Nakul-2/leetcode-solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nakul-2/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nakul-2/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -363,4 +367,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nakul-2/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 <!---LeetCode Topics End-->
