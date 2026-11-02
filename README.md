@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakul-2/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0212-word-search-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/Nakul-2/leetcode-solutions/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nakul-2/leetcode-solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1472-design-browser-history](https://github.com/Nakul-2/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nakul-2/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Nakul-2/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nakul-2/leetcode-solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nakul-2/leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Nakul-2/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/Nakul-2/leetcode-solutions/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Nakul-2/leetcode-solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nakul-2/leetcode-solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nakul-2/leetcode-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Nakul-2/leetcode-solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nakul-2/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
