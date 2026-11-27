@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Nakul-2/leetcode-solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Nakul-2/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nakul-2/leetcode-solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Nakul-2/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nakul-2/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Nakul-2/leetcode-solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Nakul-2/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nakul-2/leetcode-solutions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
